@@ -1,87 +1,47 @@
-# Project Title
+# Titulo del Proyecto
 
-One Paragraph of project description goes here
+Mi portafolio
 
-## Getting Started
+## Empezemos
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Para descargar el repositorio no es necesario ingun framework o entorno de trabajo, simplemente bajar el repositorio a su carpeta local mediante git.
 
-### Prerequisites
+### Pasos para clonar el repositorio y tenerlo localmente
 
-What things you need to install the software and how to install them
-
+Para instalar localmente el proyecto siga los siguientes pasos: 
+1. Copiar el la direccion https del proyecto
+2. Crear una carpeta donde  se quiera alojar el repositorio
+3. De clic derecho a la carpeta y seleccione la opcion (open with GitBash here)
+4. Escribir el siguiente comando en el terminal de Git
 ```
-Give examples
+git clone [direccion del repositorio]
 ```
+5. Una vez clonado el repositorio se ha cargado todos los archivos necesarios para que el mismo funcione.
+6. Abir el archivo desde Visual Studio Code u otra herramienta.
 
-### Installing
+## Informacion del proyecto
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
+El siguiente proyecto corresponde a un portafolio sobre los proyectos mas destacados de Gokochas10 (Joshua Herrera) donde constan sus estudios hasta el momento, sus aficiones, experiencia, lenguajes que maneja e informacion adicional personal como gustos particulares, proyectos pendientes etc. 
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Html](https://lenguajehtml.com) - Lenguaje de Marcado
+* [CSS](https://lenguajecss.com) - Hoja de estilos
 
-## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+## Contribuyentes
 
-## Versioning
+El pruyecto fue realizado enteramente por el autor.
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+## Versiones
 
-## Authors
+Actualmente el programa sigue en desarrollo y se busca aplicar tecnologias mas eficientes y mejorarlo con framewokrs.
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+## Autores
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Joshua Herrera** - *Initial work* - [Gokochas10](https://github.com/Gokochas10)
 
-## License
+## Licencia
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+Este proyecto cuenta con una licencia OPEN SOURCE.
 
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
